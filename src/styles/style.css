@@ -1,0 +1,17 @@
+@import '~normalize.css';
+@import 'Roboto.css';
+
+body {
+    /*background: url('../assets/dog.jpg') no-repeat center / cover;*/
+    background: #000;
+    background-size: 40%;
+    height: 100vh;
+    overflow: hidden;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+}
